@@ -45,9 +45,14 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neyamat7&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=neyamat7&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neyamat7&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+ 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=neyamat7&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyamat7&theme=github-dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neyamat7&layout=compact&theme=github_dark&hide_border=true&langs_count=10)
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
