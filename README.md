@@ -5,6 +5,19 @@
 # 💫 About Me:
  Full-stack developer with a passion for building scalable and high-performance web apps. I specialize in React, Node.js, Express, and MongoDB, transforming complex problems into simple, intuitive solutions. Whether it's crafting dynamic UIs or architecting robust backends, I'm driven by the challenge of delivering seamless, user-centric experiences.
 
+ <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Current Focus:</span></h2>
+<br />
+
+- 🧑‍💻 **Learning TypeScript & Next.js** 
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVha3gzNGxxejJ5Z2xnbTZwaGtuNW1lYXMzMjdwYzM5b3lvcmk4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LojladCSqrWbeaG1jQ/giphy.gif" alt="Penguin" width="23%" />
+
+- 🛠 **Exploring Node.js Backend Libraries** 
+- 🧑‍💼 **Working on a new LMS (Learning Management System) Project.**
+- 🔭 **Learning Advanced React & Next.js** 
+- 🤝 **Seeking Collaboration on Open-Source Projects.**
+
+<br />
+
 
 # 💻 Tech Stack:
 
