@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://github.com/neyamat7/neyamat7/blob/main/profile-banner.png">
+</p>
+
 # 💫 About Me:
  Full-stack developer with a passion for building scalable and high-performance web apps. I specialize in React, Node.js, Express, and MongoDB, transforming complex problems into simple, intuitive solutions. Whether it's crafting dynamic UIs or architecting robust backends, I'm driven by the challenge of delivering seamless, user-centric experiences.
 
