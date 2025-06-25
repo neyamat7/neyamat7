@@ -13,7 +13,6 @@
 
 - 🛠 **Exploring Node.js Backend Libraries** 
 - 🧑‍💼 **Working on a new LMS (Learning Management System) Project.**
-- 🔭 **Learning Advanced React & Next.js** 
 - 🤝 **Seeking Collaboration on Open-Source Projects.**
 
 <br />
