@@ -59,14 +59,4 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=neyamat7&theme=dark&hide_border=true)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neyamat7&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=react)
-
-
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=neyamat7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
