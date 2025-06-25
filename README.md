@@ -57,7 +57,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=neyamat7&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neyamat7&theme=github-dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=neyamat7&theme=dark&hide_border=true)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neyamat7&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=react)
 
