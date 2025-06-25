@@ -7,7 +7,6 @@
 
 <h2><img src="https://media.giphy.com/media/l0MYt5jPrb5KkF3wm/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Current Focus:</span></h2>
 <br />
-
 - 🧑‍💻 **Learning TypeScript & Next.js** 
   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVha3gzNGxxejJ5Z2xnbTZwaGtuNW1lYXMzMjdwYzM5b3lvcmk4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LojladCSqrWbeaG1jQ/giphy.gif" alt="Penguin" width="23%" />
 
@@ -16,8 +15,6 @@
 - 🤝 **Seeking Collaboration on Open-Source Projects.**
 
 <br />
-
-
 
 # 💻 Tech Stack:
 
