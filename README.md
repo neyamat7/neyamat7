@@ -7,6 +7,7 @@
 
 <h2><img src="https://media.giphy.com/media/l0MYt5jPrb5KkF3wm/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Current Focus:</span></h2>
 <br />
+
 - 🧑‍💻 **Learning TypeScript & Next.js**  
 - 🛠  **Exploring Node.js Backend Libraries** 
 - 🧑‍💼 **Working on a new LMS (Learning Management System) Project.**
