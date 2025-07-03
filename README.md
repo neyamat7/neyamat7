@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
- Full-stack developer with a passion for building scalable and high-performance web apps. I specialize in React, Node.js, Express, and MongoDB, transforming complex problems into simple, intuitive solutions. Whether it's crafting dynamic UIs or architecting robust backends, I'm driven by the challenge of delivering seamless, user-centric experiences.
+Front-end developer dedicated to building responsive and high-performance web applications. My expertise lies in React and JavaScript, where I focus on transforming complex challenges into clean, interactive, and visually appealing user interfaces. I’m driven by a passion for delivering smooth, user-focused digital experiences.
 
 <h2><img src="https://media.giphy.com/media/l0MYt5jPrb5KkF3wm/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Current Focus:</span></h2>
 <br />
