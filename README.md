@@ -44,8 +44,8 @@ Front-end developer dedicated to building responsive and high-performance web ap
 
 # 📊 GitHub Stats:
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=neyamat7&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=neyamat7&theme=github_dark&hide_title=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=neyamat7&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=neyamat7)<br/>
 
  
