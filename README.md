@@ -48,16 +48,16 @@ Front-end developer dedicated to building responsive and high-performance web ap
 <div align="center">
 
   <!-- Bottom - Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=dark&row=1&column=6&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=neyamat7&theme=dark&row=1&column=6&margin-w=15" alt="Trophies" />
 
  <!-- Top Row -->
   <table>
     <tr>
       <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=TonmoySarker-BD&show_icons=true" alt="Stats">
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=neyamat7&show_icons=true" alt="Stats">
       </td>
       <td>
-        <img height="165" src="https://streak-stats.demolab.com/?user=TonmoySarker-BD" alt="Streak">
+        <img height="165" src="https://streak-stats.demolab.com/?user=neyamat7" alt="Streak">
       </td>
     </tr>
   </table>
@@ -67,11 +67,11 @@ Front-end developer dedicated to building responsive and high-performance web ap
     <tr>
       <!-- Profile Details -->
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd" alt="Profile Details" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyamat7" alt="Profile Details" />
       </td>
       <!-- Top Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyamat7" alt="Top Languages" />
       </td>
     </tr>
   </table>
