@@ -69,10 +69,6 @@ Front-end developer dedicated to building responsive and high-performance web ap
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyamat7" alt="Profile Details" />
       </td>
-      <!-- Top Languages -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyamat7" alt="Top Languages" />
-      </td>
     </tr>
   </table>
 </div>
