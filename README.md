@@ -44,8 +44,38 @@ Front-end developer dedicated to building responsive and high-performance web ap
 
 # 📊 GitHub Stats:
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=neyamat7&theme=github_dark&hide_title=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=neyamat7)<br/>
+<div align="center">
+
+  <!-- Bottom - Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=dark&row=1&column=6&margin-w=15" alt="Trophies" />
+
+ <!-- Top Row -->
+  <table>
+    <tr>
+      <td>
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=TonmoySarker-BD&show_icons=true" alt="Stats">
+      </td>
+      <td>
+        <img height="165" src="https://streak-stats.demolab.com/?user=TonmoySarker-BD" alt="Streak">
+      </td>
+    </tr>
+  </table>
+
+  <!-- Middle Row - Summary Cards -->
+  <table>
+    <tr>
+      <!-- Profile Details -->
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd" alt="Profile Details" />
+      </td>
+      <!-- Top Languages -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
  
