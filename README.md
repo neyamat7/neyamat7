@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-Front-end developer dedicated to building responsive and high-performance web applications. My expertise lies in React and JavaScript, where I focus on transforming complex challenges into clean, interactive, and visually appealing user interfaces. I’m driven by a passion for delivering smooth, user-focused digital experiences.
+Full-stack developer dedicated to building responsive and high-performance web applications. My expertise lies in JavaScript, React.js, Next.js, Node.js, and NestJS, where I focus on transforming complex challenges into clean, interactive, visually appealing systems. I thrive on solving complex problems and delivering seamless digital experiences that combine functionality with a polished, interactive design.
 
 <h2><img src="https://media.giphy.com/media/l0MYt5jPrb5KkF3wm/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Current Focus:</span></h2>
 <br />
