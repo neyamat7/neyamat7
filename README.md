@@ -62,7 +62,7 @@ Front-end developer dedicated to building responsive and high-performance web ap
         <img height="165" src="https://github-readme-stats.vercel.app/api?username=neyamat7&show_icons=true" alt="Stats">
       </td>
       <td>
-        <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=neyamat7&theme=dark" alt="Streak">
+       <img height="165" src="https://streak-stats.demolab.com/?user=neyamat7&theme=dark" alt="Streak">
       </td>
     </tr>
   </table>
