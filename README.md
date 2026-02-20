@@ -52,7 +52,7 @@ Full-stack developer dedicated to building responsive and high-performance web a
 
 <div align="center">
 
-  <!-- Bottom - Trophies -->
+  <!-- Btm Tropies -->
   <img src="https://github-profile-trophy.vercel.app/?username=neyamat7&theme=dark&row=1&column=6&margin-w=15" alt="Trophies" />
 
  <!-- Top Row -->
